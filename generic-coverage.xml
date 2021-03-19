@@ -4,7 +4,7 @@
     <lineToCover lineNumber="2" covered="false"/>
     <lineToCover lineNumber="3" covered="true"/>
   </file>
-  <file path="Foo.java">
+  <file path="foo.js">
     <lineToCover lineNumber="1" covered="true"/>
     <lineToCover lineNumber="2" covered="false"/>
     <lineToCover lineNumber="3" covered="true"/>
